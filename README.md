@@ -1,6 +1,6 @@
 # polymarketarb
 polymarket arb 1xbet。polymarket 对1xbet 套利。
-整个代码仓库后续会开源。目前因为是cursor编写的，作者也是第一次写插件。项目需要整理后，再开源。
+整个项目源代码就在 release 压缩包中。
 这是一个chrome插件。
 <img width="1906" height="1039" alt="image" src="https://github.com/user-attachments/assets/f33760b7-1d9e-4e75-bf46-98e757eda79c" />
 ## 插件下载
