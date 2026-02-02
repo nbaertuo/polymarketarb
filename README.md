@@ -15,4 +15,7 @@ polymarket arb 1xbet。polymarket 对1xbet 套利。
 所有的apikey都存放在你的chrome本地存储。
 <img width="2302" height="1192" alt="image" src="https://github.com/user-attachments/assets/5c091060-94d4-4b85-a98a-b63b227e8b44" />
 
+## 电报群
+[电报群](https://t.me/+aIVJFXCgNXg0ZGRh)
+
 
