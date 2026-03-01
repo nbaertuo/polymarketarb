@@ -4,7 +4,7 @@ polymarket arb 1xbet。polymarket 对1xbet 套利。
 这是一个chrome插件。
 <img width="1906" height="1039" alt="image" src="https://github.com/user-attachments/assets/f33760b7-1d9e-4e75-bf46-98e757eda79c" />
 ## 插件下载
-[下载 PolymarketArb v3.0.2](https://github.com/nbaertuo/polymarketarb/releases/tag/3.0.2)
+[下载 PolymarketArb v3.0.2](https://github.com/nbaertuo/polymarketarb/releases/)
 下载后，直接解压。
 
 ## 插件安装
